@@ -1,0 +1,14 @@
+<!DOCTYPE html>    <!-- Demarks file as html to browser -->     
+<html>
+	<head>    <!-- Commands to set up browser page -->
+		<meta charset="UTF-8">
+		<title>Yash's Awesome Web Page!</title>
+	</head>	
+	<body>    <!-- Displayed in body of webpage -->
+	  <h1> Yash's Awesome Page </h1>
+
+	  <a href='https://www.terry.uga.edu'> 
+		  Terry College of Business 
+	  </a>
+	</body>
+</html>

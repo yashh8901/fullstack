@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="HTML_Demo_Bhatt" name="HTML_Demo_Bhatt" path="/Users/Test/Documents/UGA/Classes/MIST_4630/Projects/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/HTML_Demo_Bhatt" type="static"/>
+</server>
